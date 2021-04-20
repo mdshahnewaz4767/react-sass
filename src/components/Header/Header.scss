@@ -1,7 +1,4 @@
-$primary-color: red;
-$text-important: purple;
-$text-description-color: goldenrod;
-
+@import '../../styles//shared/color.scss';
 .first-box{
     border: 1px solid $primary-color;
     color: $text-important;
